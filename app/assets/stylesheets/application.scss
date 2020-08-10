@@ -121,7 +121,7 @@ main {
 
 .main-image {
     height: 940px;
-    background-image: url(meal.png);
+    background-image: url(dog.jpg);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -144,6 +144,10 @@ div.navbar-item {
             margin-right: 3px;
         }
     }
+}
+
+#small-user-pic {
+    height: 100%;
 }
 
 @media screen and (max-width: 560px){
